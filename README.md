@@ -1,3 +1,4 @@
+[![Run Selenium On GitHub Action](https://github.com/NelliLead/Successful_authorization/actions/workflows/Selenium-Action_Template.yaml/badge.svg)](https://github.com/NelliLead/Successful_authorization/actions/workflows/Selenium-Action_Template.yaml)
 # Successful_authorization
 
 UI test python selenium
